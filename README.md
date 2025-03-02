@@ -5,4 +5,4 @@ In this repository, I host reproducible notebooks and pdf that will take you thr
 * 1_Introduction ==> Basic introduction to deep learning.
 * 2_Tensors ==> Introduction to `tensor`s that are invaluable data structures for deep learning.
 * 3_`PyTorch` ==> Introduction to `PyTorch` with end-to-end model workflow.
-* 4_Geospatial AI ==> Introduction to Geospatial Deep Learning using `torchgeo`
+* 4_Geospatial_Data ==> Introduction to Geospatial Deep Learning using `torchgeo`
